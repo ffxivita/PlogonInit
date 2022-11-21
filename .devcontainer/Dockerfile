@@ -1,4 +1,4 @@
-FROM  ghcr.io/ffxivita/docker-dalamud:latest
+FROM  ghcr.io/ffxivita/docker-dalamud:latest@sha256:0c322e40954614ee0a326751490ac960c0ccd8884c0db79c84017e3465fb1165
 
 # Optout of telemtry.
 ENV DOTNET_CLI_TELEMETRY_OPTOUT=1
