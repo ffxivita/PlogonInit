@@ -1,0 +1,1 @@
+PlogonInit è un boilerplate per lo sviluppo di Plugin basati sulla libreria Dalanud.
